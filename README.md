@@ -39,7 +39,7 @@ python basicsr/train.py -opt options/test/MADNet/test_MADNet.yml
  ![image](/img/res2.png)
 
 ## Acknowledgments
-Our MADNet mainly borrows from IconVSR (https://github.com/ckkelvinchan/BasicVSR-IconVSR), and [FcaNet](https://github.com/cfzd/FcaNet).  
+Our MADNet mainly borrows from [IconVSR](https://github.com/ckkelvinchan/BasicVSR-IconVSR), and [FcaNet](https://github.com/cfzd/FcaNet).  
 Thanks for these excellent open-source works!
 
 ## Contact
