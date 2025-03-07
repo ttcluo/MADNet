@@ -49,7 +49,7 @@ Email: xiao_yi@whu.edu.cn; xy574475@gmail.com
 If you find our work helpful in your research, please consider citing it. We appreciate your support！😊
 
 ```
-@ARTICLE{xiao2024ttst,
+@ARTICLE{xiao2025madnet,
   author={Xiao, Yi and Yuan, Qiangqiang and Jiang, Kui and Chen, Yuzeng and, Wang Shiqi and Lin, Chia-Wen},
   journal={IEEE Transactions on Image Processing}, 
   title={Multi-Axis Feature Diversity Enhancement for Remote Sensing Video Super-Resolution}, 
